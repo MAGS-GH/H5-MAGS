@@ -1,6 +1,8 @@
 # H5-MAGS
 H5-Projekt mappe for MAGS med Henrik Thomsen som underviser
 
+Dokumentation for arbejdsmetode kan findes her - [GitHub Projects](https://github.com/users/MAGS-GH/projects/5)
+
 ### Fag på H5
 16480: App programmering 3
 
