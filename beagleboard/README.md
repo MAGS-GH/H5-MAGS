@@ -64,7 +64,7 @@ Ved opstart af BBB er det vigtigt at du
     
     8. Check at filen /dev/mmcblk0 eksisterer (Undgå at lave en fil)
 
-    9. wget --no-check-certificate -qO- http://mars.tekkom.dk/data/bbb/bone-debian-10.3-iot-armhf-2020-04-06-4gb.img.xz | xzcat | dd bs=10M of=/dev/mmcblk0 status=progress
+    9. wget --no-check-certificate -qO- https://mars.merhot.dk/data/bbb/bone-debian-10.3-iot-armhf-2020-04-06-4gb.img.xz | xzcat | dd bs=10M of=/dev/mmcblk0 status=progress
     
     10. shutdown -r 0
     
