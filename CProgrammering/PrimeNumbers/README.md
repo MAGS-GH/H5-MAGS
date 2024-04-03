@@ -20,7 +20,7 @@ sys     0m0.000s
 
 ">" sender output ud til "skralespanen"
 
-Metode 3 - i*i <= num eller Metode 2 i < num/2  Metode 1 - i < num
+Metode 3 - ```i*i <= num``` eller Metode 2 ```i < num/2 ```  Metode 1 ``` i < num```
 
     Eksempel med num = 229
 
