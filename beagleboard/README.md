@@ -87,3 +87,10 @@ Vi kan pinge 8.8.8.8 for at se om vi har internet - hvis der er forbindelse bliv
 
 Vi kan tage IP-addressen fra "ip a" og SSH til maskinen hvis vi vil
 
+df -h burge vise mmcblk0, altså 0 fordi vi er bootet fra vores SD-kort
+
+sudo nano /etc/motd - 
+
+sudo fdisk /dev/mmcblk0 | m | p - printer vores partien table
+
+Expand partion - Kør trin 13 og tjek bagefter om man har alle 8 gb til rådighed! 
