@@ -39,3 +39,20 @@ Ud fra formelen kan vi også konkludere at
 
 $$ a \ngtr p/2 \, | \, b > p/2 \,\, og \,\,  b \ngtr p/2 \, |\, a > p/2 $$
 
+
+
+## Opgave fra Onsdag til Fredag
+
+    [13:48] Henrik Thomsen
+    BBB @ home
+    TIlslut BBB til Internettet.
+    
+    Kopier og indsæt dette script i terminalen for at installerere udviklingsværktøjer: https://mars.merhot.dk/w/index.php/C_linux_development
+    
+    Overfør jeres primtals source kode til BBB og kompiler den der. 
+    
+    Find fx. 100000 primtal og tag tid på hvor lang tid programmet bruger på både BBB og min server. (For at få en fornemmelse at performance)
+    
+    Anvend time programmet for at tage tid på afviklingen. Fx - time ./primtal
+    like 2
+    C linux development - Teknologisk videncenter
