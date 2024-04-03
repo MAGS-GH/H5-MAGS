@@ -81,9 +81,9 @@ Ved opstart af BBB er det vigtigt at du
     16. Install debian C linux development tools
 
 
-Brug ip a for at se om man har fået tildelt en ip-addresse og om der er internet
+Brug "ip a" for at se om man har fået tildelt en ip-addresse og om der er internet
 
 Vi kan pinge 8.8.8.8 for at se om vi har internet - hvis der er forbindelse bliver den ved, brugt control+c for at stoppe den 
 
-
+Vi kan tage IP-addressen fra "ip a" og SSH til maskinen hvis vi vil
 
