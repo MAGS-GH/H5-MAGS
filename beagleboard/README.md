@@ -64,7 +64,7 @@ Ved opstart af BBB er det vigtigt at du
     
     8. Check at filen /dev/mmcblk0 eksisterer (Undgå at lave en fil)
 
-    9. wget --no-check-certificate -qO- http://mars.tekkom.dk/data/bbb/bone-debian-10.3-iot-armhf-2020-04-06-4gb.img.xz | xzcat | dd bs=10M of=/dev/mmcblk0 status=progress
+    9. wget --no-check-certificate -qO- https://mars.merhot.dk/data/bbb/bone-debian-10.3-iot-armhf-2020-04-06-4gb.img.xz | xzcat | dd bs=10M of=/dev/mmcblk0 status=progress
     
     10. shutdown -r 0
     
@@ -87,3 +87,10 @@ Vi kan pinge 8.8.8.8 for at se om vi har internet - hvis der er forbindelse bliv
 
 Vi kan tage IP-addressen fra "ip a" og SSH til maskinen hvis vi vil
 
+df -h burge vise mmcblk0, altså 0 fordi vi er bootet fra vores SD-kort
+
+sudo nano /etc/motd - 
+
+sudo fdisk /dev/mmcblk0 | m | p - printer vores partien table
+
+Expand partion - Kør trin 13 og tjek bagefter om man har alle 8 gb til rådighed! 
