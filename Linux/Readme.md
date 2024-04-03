@@ -99,3 +99,5 @@ Finder alle filer af typen C, åbner dem og tæller antal linjer. | er vigtig
 gcc er gnu compiler - [link](https://gcc.gnu.org/)
 
 "mags@h5:~/H5-MAGS/CProgrammering$ gcc hw.c -o hw"- laver en compilet C-binær fil, kaldet hw, som man kan køre med ./hw - den skal compileres før den kan køre på en windows eller embedded-enhed
+
+

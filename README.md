@@ -3,6 +3,10 @@ H5-Projekt mappe for MAGS med Henrik Thomsen som underviser
 
 Dokumentation for arbejdsmetode kan findes her - [GitHub Projects](https://github.com/users/MAGS-GH/projects/5)
 
+### Program-liste for H5
+PuTTy, Mobatek og VSCode
+
+
 ### Fag på H5
 16480: App programmering 3
 
