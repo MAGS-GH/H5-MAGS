@@ -56,3 +56,18 @@ $$ a \ngtr p/2 \, | \, b > p/2 \,\, og \,\,  b \ngtr p/2 \, |\, a > p/2 $$
     Anvend time programmet for at tage tid på afviklingen. Fx - time ./primtal
     like 2
     C linux development - Teknologisk videncenter
+
+
+Tid på BBB
+
+    Primtal Nummer 9999; 104723 
+    Primtal Nummer 10000; 104729 
+    Det tog 0.449232999999999993434585121577, sekunder at regne de første 10.000 primtal ud!
+
+Tid på HT-Server
+
+    Primtal Nummer 9998; 104717 
+    Primtal Nummer 9999; 104723 
+    Primtal Nummer 10000; 104729 
+    Det tog 0.895341000000000053482551720663, sekunder at regne de første 10.000 primtal ud! 
+
