@@ -1,7 +1,20 @@
 # Læs tempratur opgave 
 
-    debian@beaglebone:~/h5-mags/beagleboard/readtemp$ gcc readtemp.c -o readtemp2 -li2c
-    debian@beaglebone:~/h5-mags/beagleboard/readtemp$ ./readtemp2
+Temperatur sensor
+I skal kunne udskrive temperaturen på skærmen som for eksempel: "Temperaturen er 16.04375 grader celsious"
+
+Ekstra opgave: (Vi har ikke talt om dette endnu)
+
+1. Lav et C-source modul med nødvendige funtioner til at anvende temperatur sensoren
+
+2. Lav en header fil (.h-fil) der kan inkluderes i et andet projekt    
+
+Link til [Mars-Grove_I2C_High_Accuracy_Temerature_Sensor](https://mars.merhot.dk/w/index.php/Grove_I2C_High_Accuracy_Temerature_Sensor_-_Seeed)
+
+## Kode og kommandoer
+
+    debian@beaglebone:~/h5-mags/beagleboard/2.TemperaturSensor$ gcc readtemp.c -o readtemp2 -li2c
+    debian@beaglebone:~/h5-mags/beagleboard/TemperaturSensor$ ./readtemp2
     All good :-)
     Temperaturen er 22.62 grader celsious
 
