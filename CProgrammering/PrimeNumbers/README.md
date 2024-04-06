@@ -37,7 +37,7 @@ p er et primtal og der findes altså ikke heltal hvor a * b giver tallet, derfor
 
 Ud fra formelen kan vi også konkludere at 
 
-$$ a \ngtr p/2 \, | \, b > p/2 \,\, og \,\,  b \ngtr p/2 \, |\, a > p/2 $$
+$$ a \ngtr \sqrt p \, | \, b > \sqrt p \,\, og \,\,  b \ngtr \sqrt 2 \, |\, a > \sqrt p $$
 
 
 

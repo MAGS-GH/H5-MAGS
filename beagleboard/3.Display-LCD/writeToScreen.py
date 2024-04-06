@@ -6,4 +6,4 @@ def write_to_lcd(message):
     if stderr:
         print("Fejl:", stderr.decode())
 
-write_to_lcd("Skrevet fra Python ✌")
+write_to_lcd("Det er tid til at slukke, godnat")
