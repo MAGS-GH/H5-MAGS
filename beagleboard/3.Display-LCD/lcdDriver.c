@@ -6,7 +6,7 @@
 #include <linux/i2c-dev.h>
 #include <string.h>
 
-#define I2C_BUS "/dev/i2c-2" // Afhængigt af dit system
+#define I2C_BUS "/dev/i2c-2"
 #define I2C_ADDR 0x3E
 
 // Control byte bits
