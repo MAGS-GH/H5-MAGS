@@ -2,7 +2,7 @@
 
 [I2C - Linux](https://mars.merhot.dk/w/index.php/I2C_Linux)
 
-![I2C](./600px-I2C-SMBus_simple.png)
+![I2C](./Assets/600px-I2C-SMBus_simple.png)
 
 
 I2C - 3 Slaver og en master som kan styre, hvem der skal hvad. 
@@ -50,3 +50,6 @@ Læser alle I2C med Skærm
     60: -- -- 62 -- -- -- -- -- -- -- -- -- -- -- -- -- 
     70: 70 -- -- -- -- -- -- -- 
 
+![HexTable](./Assets/HEX.JPG)
+
+![RamAccess](./Assets/RAM.JPG)
