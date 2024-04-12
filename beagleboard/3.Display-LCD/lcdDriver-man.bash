@@ -15,14 +15,14 @@ BRUG
     lcdDriverinput1 <besked>
 
 ARGUMENTER
-    besked  Tekstbeskeden, der skal vises på LCD'en.
+    <besked>  Tekstbeskeden, der skal vises på LCD'en.
 
 EKSEMPLER
     Vis "Hej verden!" på LCD'en:
         lcdDriverinput1 "Hej verden!"
 
 FORFATTER
-    Skrivet af MAGS
+    Skrevet af MAGS
 
 FEJL
     Ingen kendte fejl, men der er sikkert mange!
